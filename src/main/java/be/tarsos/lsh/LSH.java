@@ -69,7 +69,7 @@ public class LSH {
 			for(Vector vector : dataset){
 				index.index(vector);
 			}
-			Index.serialize(index);
+//			Index.serialize(index);
 		}
 	}
 	

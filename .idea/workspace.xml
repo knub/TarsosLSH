@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0209e1f4-2cbe-44a4-943d-ef1630c4233d" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="0209e1f4-2cbe-44a4-943d-ef1630c4233d" name="Default" comment="" />
     <ignored path="TarsosLSH.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,8 +47,8 @@
       <file leaf-file-name="LSH.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/be/tarsos/lsh/LSH.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="495">
-              <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+            <state relative-caret-position="609">
+              <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -76,6 +74,7 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/be/tarsos/lsh/CommandLineInterface.java" />
+        <option value="$PROJECT_DIR$/src/main/java/be/tarsos/lsh/LSH.java" />
       </list>
     </option>
   </component>
@@ -674,12 +673,12 @@
       <workItem from="1471355904561" duration="51000" />
       <workItem from="1471701017628" duration="53000" />
       <workItem from="1473089773024" duration="3000" />
-      <workItem from="1475247212704" duration="599000" />
+      <workItem from="1475247212704" duration="681000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1726000" />
+    <option name="totallyTimeSpent" value="1808000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1080" extended-state="6" />
@@ -979,8 +978,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/be/tarsos/lsh/LSH.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="66" column="25" selection-start-line="66" selection-start-column="25" selection-end-line="66" selection-end-column="25" />
+        <state relative-caret-position="609">
+          <caret line="72" column="9" selection-start-line="72" selection-start-column="9" selection-end-line="72" selection-end-column="9" />
           <folding />
         </state>
       </provider>
